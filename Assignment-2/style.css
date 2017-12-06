@@ -55,8 +55,9 @@ body{
 /* Desktop View */
 @media (min-width: 992px){
     .section{
-        width: 100%;
-        margin-top: 3%;
+        width: 26%;
+        margin: 3%;
+        display: inline-block;
     }
 }
 
